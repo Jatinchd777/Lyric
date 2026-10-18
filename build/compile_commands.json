@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lilarchie/Documents/projects/Cpp/lyric/build",
+  "command": "/usr/bin/c++  -I/home/lilarchie/Documents/projects/Cpp/lyric/whisper.cpp/include -I/home/lilarchie/Documents/projects/Cpp/lyric/whisper.cpp/ggml/include -std=gnu++17 -o CMakeFiles/lyric.dir/src/main.cpp.o -c /home/lilarchie/Documents/projects/Cpp/lyric/src/main.cpp",
+  "file": "/home/lilarchie/Documents/projects/Cpp/lyric/src/main.cpp",
+  "output": "CMakeFiles/lyric.dir/src/main.cpp.o"
+}
+]

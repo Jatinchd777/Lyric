@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lyric.dir/link.d CMakeFiles/lyric.dir/src/main.cpp.o -o lyric   -L/home/lilarchie/Documents/projects/Cpp/lyric/whisper.cpp/build/bin  -Wl,-rpath,/home/lilarchie/Documents/projects/Cpp/lyric/whisper.cpp/build/bin -lwhisper

@@ -1,0 +1,3 @@
+/home/lilarchie/Documents/projects/Cpp/lyric/build/CMakeFiles/lyric.dir
+/home/lilarchie/Documents/projects/Cpp/lyric/build/CMakeFiles/edit_cache.dir
+/home/lilarchie/Documents/projects/Cpp/lyric/build/CMakeFiles/rebuild_cache.dir
